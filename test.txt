@@ -1,0 +1,1 @@
+Building a Radio Intelligent Controller (RIC) platform that will open up the RAN space and allow a host of vendors to build innovative apps on the Telco cloud. Building a differentiated SD-WAN offering that can significantly improve user experience.
